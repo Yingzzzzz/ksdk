@@ -2,7 +2,7 @@ mkdir web_monitor_log
 cd web_monitor_log
 touch Web_log.csv  #Final output
 
-wget https://raw.githubusercontent.com/Yingzzzzz/jhg/main/main.bash
+wget https://raw.githubusercontent.com/Yingzzzzz/ksdk/main/main.bash
 
 ./main.bash
 
